@@ -1,0 +1,24 @@
+{
+  "name": "zn.conbinated",
+  "version": "1.0.0",
+  "description": "Zoenet Combinated Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianoso19/zn.conbinated.git"
+  },
+  "keywords": [
+    "Node",
+    "npm",
+    "zoenet"
+  ],
+  "author": "cristianoso19",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristianoso19/zn.conbinated/issues"
+  },
+  "homepage": "https://github.com/cristianoso19/zn.conbinated#readme"
+}
